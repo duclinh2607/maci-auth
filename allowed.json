@@ -1,8 +1,11 @@
 {
   "enabled": true,
+
+  "commonCode": "1",
+
   "users": [
+
     {
-      "code": "1",
       "employeeId": "V2160066",
       "name": "甲文猛",
       "purpose": "辦公APP",
@@ -11,6 +14,18 @@
       "color": "黑色",
       "serial": "FK1DFEAAN70C",
       "area": "辦公APP"
+    },
+
+    {
+      "employeeId": "V2169999",
+      "name": "梁德",
+      "purpose": "辦公APP",
+      "brand": "Samsung",
+      "model": "S24 Ultra",
+      "color": "黑色",
+      "serial": "ABC999XYZ",
+      "area": "辦公APP"
     }
+
   ]
 }
