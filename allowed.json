@@ -1,6 +1,16 @@
 {
   "enabled": true,
-  "codes": [
-   "1"
+  "users": [
+    {
+      "code": "1",
+      "employeeId": "V2160066",
+      "name": "甲文猛",
+      "purpose": "辦公APP",
+      "brand": "Iphone",
+      "model": "11 Pro Max",
+      "color": "黑色",
+      "serial": "FK1DFEAAN70C",
+      "area": "辦公APP"
+    }
   ]
 }
